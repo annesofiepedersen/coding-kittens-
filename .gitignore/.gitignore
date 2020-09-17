@@ -1,0 +1,209 @@
+ext/css" href="css/style.css">
+    <title>Inspiration</title>
+</head>
+
+<body>
+    <nav>
+
+    </nav>
+    <header>
+
+    </header>
+    <main>
+
+        <section>
+            <div class="container">
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede1.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>Camilla</h2>
+                            <p>Dette er malet på ....vase til 349.- og der er blevet brugt følgende farver: grøn, gul, grå, lys grå. Teknikken der er anvendt er ballonteknikken, som du kan finde mere information om under "teknikker"</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede2.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede3.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede4.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede%205.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede6.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede7.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede8.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede9.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede10.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede11.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede12.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede13.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede14.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede15.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBox">
+                        <img src="/img/billede16.PNG" alt="Keramik">
+                    </div>
+                    <div class="details">
+                        <div class="content">
+                            <h2>h2 overskrift</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur harum, error iste vitae deserunt tenetur non accusamus tempora sint, libero enim, ipsum obcaecati aliquid. Ab eos debitis labore consequatur, blanditiis fugit ullam molestiae sequi doloremque incidunt, ad, voluptatem similique ea.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="page_footer">
+        <section class="page_footer_section">
+            <h4>Creative Space</h4>
+            <div class="copyright">
+                © 2020
+            </div>
+        </section>
+
+        <section class="page_footer_section">
+            <h4>Follow us</h4>
+            <a href="http://www.facebook.com">Facebook</a>
+            <a href="http://www.twitter.com">Instagram</a>
+        </section>
+    </footer>
+</body></html>
